@@ -1,0 +1,21 @@
+{
+  "name": "nick",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sairam583123/MessageSender"
+  },
+  "dist-tags": {
+    "latest": "1.0.0"
+  }
+}
